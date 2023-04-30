@@ -1,0 +1,15 @@
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\bin\Debug\net6.0\UltimateChess.exe
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\bin\Debug\net6.0\UltimateChess.deps.json
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\bin\Debug\net6.0\UltimateChess.runtimeconfig.json
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\bin\Debug\net6.0\UltimateChess.dll
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\bin\Debug\net6.0\UltimateChess.pdb
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.csproj.AssemblyReference.cache
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.AssemblyInfoInputs.cache
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.AssemblyInfo.cs
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.csproj.CoreCompileInputs.cache
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.dll
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\refint\UltimateChess.dll
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.pdb
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\UltimateChess.genruntimeconfig.cache
+C:\Users\john9\OneDrive\Desktop\My own projects\GitHub\UltimateChess1\UltimateChess\obj\Debug\net6.0\ref\UltimateChess.dll
